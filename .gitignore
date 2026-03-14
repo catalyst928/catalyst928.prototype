@@ -56,3 +56,6 @@ Desktop.ini
 
 # ── Claude ───────────────────────────────────────────────────────
 # .claude/
+
+# ── Application-specific (uncomment if needed) ───────────────────────────────
+app/
